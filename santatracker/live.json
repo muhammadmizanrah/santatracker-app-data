@@ -1,8 +1,8 @@
 {
-    "version": 2,
-    "sha256": "75d627ac55f4405a25dcccbf4c67d56a5a4f59c9d1accaa68e164101900a2c07",
-    "signature": "ed25519:Myqfh5Ih2iGXtjVuLvwzr7tbM7RXLNjeKU/LsEISwdCaYS/Gkp7URAo2dU/VsKBS2Kty3xh6v1hkdRqS3H5PBA==",
-    "bytes": 797,
-    "published_at": "2026-11-09T02:55:59+00:00",
-    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/santatracker-app-data@3969cb3/santatracker/v2.json"
+    "version": 3,
+    "sha256": "4a0ba90ca8ef3db395714069f5bc3db929fc153800420bfed98fb9e8e3503f57",
+    "signature": "ed25519:gVRBy3yQ7MQXV24Fy6YTQ8haCt2BFD9QK+n1tFe9lPe787WJXBoEIeKmGnr1bAhGyKgsZF7nqPkwB8o9XoNJBw==",
+    "bytes": 751,
+    "published_at": "2026-11-09T02:58:07+00:00",
+    "url": "https://cdn.jsdelivr.net/gh/muhammadmizanrah/santatracker-app-data@684e929/santatracker/v3.json"
 }
